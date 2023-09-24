@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.bg-overlay-image {
+    background-image: url('../src/assets/Rectangle\ 4287.png');
+}

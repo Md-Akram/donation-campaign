@@ -1,11 +1,15 @@
-
+import { Banner } from "./Components/Banner"
+import { Cards } from "./Components/Cards"
+import { Navbar } from "./Components/Navbar"
 
 function App() {
 
 
   return (
     <>
-      <h3 className="text-red-500">app is up and running</h3>
+      <Navbar />
+      <Banner />
+      <Cards />
     </>
   )
 }

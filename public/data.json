@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "/Health.png",
+        "title": "Donation for Health",
+        "category": "Health",
+        "category_bg": "#3498db",
+        "card_bg": "blue",
+        "text_bg": "#1a5276",
+        "description": "Support healthcare initiatives for those in need.",
+        "price": "$50.00"
+    },
+    {
+        "id": 2,
+        "picture": "/Education.png",
+        "title": "Education Fund",
+        "category": "Education",
+        "category_bg": "#e74c3c",
+        "card_bg": "red",
+        "text_bg": "#922b21",
+        "description": "Help provide education opportunities to underprivileged students.",
+        "price": "$25.00"
+    },
+    {
+        "id": 3,
+        "picture": "/Clothing.png",
+        "title": "Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#27ae60",
+        "card_bg": "green",
+        "text_bg": "#145a32",
+        "description": "Donate clothes to those in need to keep them warm.",
+        "price": "$20.00"
+    },
+    {
+        "id": 4,
+        "picture": "/Food.png",
+        "title": "Food Assistance",
+        "category": "Food",
+        "category_bg": "#f39c12",
+        "card_bg": "orange",
+        "text_bg": "#b9770e",
+        "description": "Support food banks to provide meals to the hungry.",
+        "price": "$15.00"
+    },
+    {
+        "id": 5,
+        "picture": "/Health.png",
+        "title": "Donation for Health",
+        "category": "Health",
+        "category_bg": "#3498db",
+        "card_bg": "blue",
+        "text_bg": "#1a5276",
+        "description": "Support healthcare initiatives for those in need.",
+        "price": "$50.00"
+    },
+    {
+        "id": 6,
+        "picture": "/Education.png",
+        "title": "Education Fund",
+        "category": "Education",
+        "category_bg": "#e74c3c",
+        "card_bg": "red",
+        "text_bg": "#922b21",
+        "description": "Help provide education opportunities to underprivileged students.",
+        "price": "$25.00"
+    },
+    {
+        "id": 7,
+        "picture": "/Clothing.png",
+        "title": "Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#27ae60",
+        "card_bg": "green",
+        "text_bg": "#145a32",
+        "description": "Donate clothes to those in need to keep them warm.",
+        "price": "$20.00"
+    },
+    {
+        "id": 8,
+        "picture": "/Food.png",
+        "title": "Food Assistance",
+        "category": "Food",
+        "category_bg": "#f39c12",
+        "card_bg": "orange",
+        "text_bg": "#b9770e",
+        "description": "Support food banks to provide meals to the hungry.",
+        "price": "$15.00"
+    },
+    {
+        "id": 9,
+        "picture": "/Health.png",
+        "title": "Donation for Health",
+        "category": "Health",
+        "category_bg": "#3498db",
+        "card_bg": "blue",
+        "text_bg": "#1a5276",
+        "description": "Support healthcare initiatives for those in need.",
+        "price": "$50.00"
+    },
+    {
+        "id": 10,
+        "picture": "/Education.png",
+        "title": "Education Fund",
+        "category": "Education",
+        "category_bg": "#e74c3c",
+        "card_bg": "red",
+        "text_bg": "#922b21",
+        "description": "Help provide education opportunities to underprivileged students.",
+        "price": "$25.00"
+    },
+    {
+        "id": 11,
+        "picture": "/Clothing.png",
+        "title": "Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#27ae60",
+        "card_bg": "green",
+        "text_bg": "#145a32",
+        "description": "Donate clothes to those in need to keep them warm.",
+        "price": "$20.00"
+    },
+    {
+        "id": 12,
+        "picture": "/Food.png",
+        "title": "Food Assistance",
+        "category": "Food",
+        "category_bg": "#f39c12",
+        "card_bg": "orange",
+        "text_bg": "#b9770e",
+        "description": "Support food banks to provide meals to the hungry.",
+        "price": "$15.00"
+    }
+]
