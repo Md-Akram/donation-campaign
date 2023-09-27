@@ -10,3 +10,15 @@
 .pie {
     width: 400px,
 }
+
+/* Hide scrollbar for all browsers */
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+    /* Chrome/Safari/Webkit */
+}
+
+::-webkit-scrollbar-thumb {
+    background: transparent;
+    /* Chrome/Safari/Webkit */
+}

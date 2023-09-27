@@ -1,6 +1,17 @@
-import React from 'react'
+import React, { useEffect } from 'react'
+import { useParams } from 'react-router-dom'
 
 export const DonationDetails = () => {
+
+    const paramObj = useParams()
+    console.log(paramObj.id);
+
+    useEffect(() => {
+        fetch('/data.json')
+            .then(res => res.json())
+            .then(data => console.log(data))
+    }, [])
+
     return (
         <div className='flex flex-col items-center my-4'>
             <div className="w-4/5 h-[60vh] bg-center rounded bg-no-repeat bg-cover relative"

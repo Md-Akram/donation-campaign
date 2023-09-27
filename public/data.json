@@ -46,7 +46,7 @@
     {
         "id": 5,
         "picture": "/Health.png",
-        "title": "Donation for Health",
+        "title": "Clean water for children",
         "category": "Health",
         "category_bg": "#3498db",
         "card_bg": "blue",
@@ -57,7 +57,7 @@
     {
         "id": 6,
         "picture": "/Education.png",
-        "title": "Education Fund",
+        "title": "Good education",
         "category": "Education",
         "category_bg": "#e74c3c",
         "card_bg": "red",
@@ -68,7 +68,7 @@
     {
         "id": 7,
         "picture": "/Clothing.png",
-        "title": "Clothing Drive",
+        "title": "Used Clothing Drive",
         "category": "Clothing",
         "category_bg": "#27ae60",
         "card_bg": "green",
@@ -79,7 +79,7 @@
     {
         "id": 8,
         "picture": "/Food.png",
-        "title": "Food Assistance",
+        "title": "Better Food for Everyone",
         "category": "Food",
         "category_bg": "#f39c12",
         "card_bg": "orange",
